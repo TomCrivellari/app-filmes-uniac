@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Filmes",
+    "slug": "app-filmes-uniac",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
